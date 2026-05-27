@@ -1,1 +1,15 @@
-select 1 from dual;
+INSERT INTO game (title, age, stock) VALUES ('FIFA 24', 3, 50);
+INSERT INTO game (title, age, stock) VALUES ('Call of Duty', 18, 35);
+INSERT INTO game (title, age, stock) VALUES ('Minecraft', 7, 120);
+INSERT INTO game (title, age, stock) VALUES ('Fortnite', 12, 80);
+INSERT INTO game (title, age, stock) VALUES ('Zelda BOTW', 12, 25);
+INSERT INTO game (title, age, stock) VALUES ('Elden Ring', 18, 40);
+INSERT INTO game (title, age, stock) VALUES ('Among Us', 7, 60);
+INSERT INTO game (title, age, stock) VALUES ('Cyberpunk 2077', 18, 15);
+INSERT INTO game (title, age, stock) VALUES ('Mario Kart', 3, 70);
+INSERT INTO game (title, age, stock) VALUES ('The Sims 4', 12, 55);
+INSERT INTO game (title, age, stock) VALUES ('GTA V', 18, 0);
+INSERT INTO game (title, age, stock) VALUES ('Animal Cross', 3, 30);
+INSERT INTO game (title, age, stock) VALUES ('AssassinsC', 18, 20);
+INSERT INTO game (title, age, stock) VALUES ('Roblox', 7, 90);
+INSERT INTO game (title, age, stock) VALUES ('Overwatch 2', 12, 65);

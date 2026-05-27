@@ -6,3 +6,12 @@ name VARCHAR(20),
 type VARCHAR(20),
 characteristics VARCHAR(30)
 );
+
+DROP TABLE game IF EXISTS;
+
+CREATE TABLE game (
+game_id BIGINT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+title VARCHAR(20),
+age INTEGER,
+stock INTEGER
+);
